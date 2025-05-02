@@ -1,0 +1,19 @@
+linux history:
+Linux, a popular open-source operating system kernel, was developed by Linus Torvalds in 1991. Inspired by the UNIX operating system and MINIX, Torvalds aimed to create a free and flexible system for personal computers. Linux was initially distributed as source code, and later as bootable disk images, which sparked the creation of numerous Linux distributions to simplify the installation process
+linux philosophy:
+Free Software:
+The core principle is that users should have the freedom to run, study, modify, and redistribute software. 
+Open Source:
+Linux embraces open source development, where the source code is publicly available, encouraging collaboration and innovation. 
+Egalitarianism:
+Linux strives to provide equal access to power and control, empowering users to customize and tailor their environment. 
+
+2. Modularity and Simplicity:
+
+    Small Programs, Well Done:
+    The philosophy encourages writing small, focused programs that do one thing well, rather than trying to make monolithic programs with many features. 
+
+Leverage and Composition:
+Programs should be designed to be easily combined with each other, creating powerful workflows. 
+Simplicity and Transparency:
+The goal is to design systems and tools that are easy to understand, debug, and maintain

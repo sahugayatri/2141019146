@@ -1,0 +1,3 @@
+Linux, a popular open-source operating system kernel, was developed by Linus Torvalds in 1991. Inspired by the UNIX operating system and MINIX, Torvalds aimed to create a free and flexible system for personal computers. Linux was initially distributed as source code, and later as bootable disk images, which sparked the creation of numerous Linux distributions to simplify the installation process
+Linux embraces open source development, where the source code is publicly available, encouraging collaboration and innovation. 
+Linux strives to provide equal access to power and control, empowering users to customize and tailor their environment. 
