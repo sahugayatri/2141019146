@@ -1,0 +1,1 @@
+This script serves as a simple example of how to use pipes and filters in a Bash environment. By combining commands like grep and sort, you can efficiently search through files and organize the results. For instance, if you're looking for a specific keyword in a log file, this example demonstrates how you can automate the process and make it more readable.

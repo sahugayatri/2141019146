@@ -1,0 +1,3 @@
+this is file 3
+task of linux operating system
+done in loop 
